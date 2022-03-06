@@ -1,4 +1,4 @@
-# Assitente virtual
+# Assistente virtual
 
 ### Motivação
 A principal motiação principal para a criação da assistente virtual, 
